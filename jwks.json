@@ -8,6 +8,15 @@
       "kid": "sandbox-1758277172859",
       "use": "sig",
       "alg": "ES256"
+    },
+    {
+      "kty": "EC",
+      "x": "MEWPRnnAng3hHjlJQyz9zMD4fKr-dZX3zC4OvBVeDFY",
+      "y": "EwmNDCQ9lLcZcu438cVw6RBqKUKvnD-HXXVkEhja4UU",
+      "crv": "P-256",
+      "use": "enc",
+      "alg": "ECDH-ES",
+      "kid": "sandbox-enc-1758849952529"
     }
   ]
 }
