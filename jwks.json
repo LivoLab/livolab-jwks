@@ -11,12 +11,12 @@
     },
     {
       "kty": "EC",
-      "x": "MEWPRnnAng3hHjlJQyz9zMD4fKr-dZX3zC4OvBVeDFY",
-      "y": "EwmNDCQ9lLcZcu438cVw6RBqKUKvnD-HXXVkEhja4UU",
+      "x": "-vGatkhjgWd77QX0tN2rOzT0uC3Lu8FJeKk7fBwngNc",
+      "y": "-MOIzAIWfoXXNXpR7kXzf73pP1J6hVTJy5Ut7XWTBbU",
       "crv": "P-256",
       "use": "enc",
-      "alg": "ECDH-ES",
-      "kid": "sandbox-enc-1758849952529"
+      "alg": "ECDH-ES+A256KW",
+      "kid": "sandbox-enc-1759229938831"
     }
   ]
-}
+}                                 
